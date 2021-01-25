@@ -1,4 +1,4 @@
-$(document).ready(function() {
+	$(document).ready(function() {
   $("#formOne").submit(function() {
     $(".person1").append("blah blah");
     $(".person2").append("blah blah");
